@@ -1,0 +1,6 @@
+flight_id,flight_type,priority,emergency
+AA101,arrival,3,no
+BB202,departure,1,yes
+CC303,arrival,5,no
+DD404,departure,2,yes
+EE707,arrival,4,no
