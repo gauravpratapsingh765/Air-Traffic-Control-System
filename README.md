@@ -1,0 +1,1 @@
+Developed a Python-based simulation for managing airport traffic, including scheduling takeoffs and landings using Priority Queues. The project dynamically processed flight data via CSV files and implemented real-time runway management for efficient operations.
